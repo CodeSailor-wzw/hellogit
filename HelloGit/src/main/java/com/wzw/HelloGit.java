@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("github官方在线更新1");
         System.out.println("github官方在线更新2");
         System.out.println("测试第一行代码");
+        System.out.println("测试第二行代码");
         
     }
 }
