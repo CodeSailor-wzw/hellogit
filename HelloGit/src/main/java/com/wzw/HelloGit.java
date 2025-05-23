@@ -8,6 +8,7 @@ public class HelloGit {
         System.out.println("主干添加提交");
         System.out.println("分支添加提交");
         System.out.println("github官方在线更新1");
+        System.out.println("github官方在线更新2");
         
     }
 }
